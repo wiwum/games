@@ -1,4 +1,4 @@
 # hello-world
-my first project
-
-I have not used github much before.
+my first repository
+======================
+this repository will have most of my stuff in it.
