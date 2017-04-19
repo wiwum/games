@@ -1,4 +1,3 @@
-# hello-world
-my first repository
-======================
-this repository will have most of my stuff in it.
+# games
+
+my repository for all of my games
